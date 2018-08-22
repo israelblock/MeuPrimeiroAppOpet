@@ -17,6 +17,19 @@
         android:inputType="text"
         android:visibility="visible" />
 
+    <CheckBox
+        android:id="@+id/checkOption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selecionar" />
+
+    <Spinner
+        android:id="@+id/spinnerFrutas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/frutas"
+        android:spinnerMode="dialog" />
+
     <Button
         android:onClick="clique"
         android:id="@+id/btnClique"

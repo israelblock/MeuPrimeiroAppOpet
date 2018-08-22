@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Meu Primeiro App Opet</string>
+    <string-array name="frutas">
+        <item>Banana</item>
+        <item>Maçã</item>
+        <item>Jaca</item>
+        <item>Melancia</item>
+    </string-array>
 </resources>
