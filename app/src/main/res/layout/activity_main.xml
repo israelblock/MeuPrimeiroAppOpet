@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Digite seu nome"
+        android:hint="Digite seu nome aqui"
         android:inputType="text"
         android:visibility="visible" />
 
